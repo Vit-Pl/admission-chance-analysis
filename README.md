@@ -101,7 +101,7 @@
 
 ## 📁 Структура проекта
 
-text```
+```text
 admission-chance-analysis/
 │
 ├── README.md # Описание проекта
@@ -112,7 +112,6 @@ admission-chance-analysis/
 └── processed/ # Итоговые Excel-таблицы
 ├── финальная_статистика.xlsx
 └── шансы_поступления.xlsx
-
 ```
 ---
 
